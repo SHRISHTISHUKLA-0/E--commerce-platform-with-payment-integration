@@ -1,1 +1,1 @@
-# E--commerce-platform-with-payment-integration
+# E-commerce-platform-with-payment-integration
